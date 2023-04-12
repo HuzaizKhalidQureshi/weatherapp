@@ -57,7 +57,7 @@ const App = () => {
       // smoke or haze
       return "https://th.bing.com/th/id/R.ae09e52be513a66f97010b5d135df775?rik=KdQE2ke8nwD4gQ&riu=http%3a%2f%2fg4.img-dpreview.com%2f167F6D02F48647F3A28DB50CC41916CD.jpg&ehk=P%2b23jO95i%2bfGJGBqQlQ%2fa%2fqegASIZ1JfmBEWYRlw0Y8%3d&risl=&pid=ImgRaw&r=0";
     } else {
-      return "";
+      return "https://www.pixelstalk.net/wp-content/uploads/2016/07/Weather-Photo.jpg";
     }
   };
 

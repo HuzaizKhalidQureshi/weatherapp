@@ -21,7 +21,8 @@ const App = () => {
         })
         .catch((error) => {
           console.log(error);
-          setError("Invalid city name.");
+          setError("City Not Found...");
+          setBackgroundImage("");
         });
       setLocation("");
       setData("");
